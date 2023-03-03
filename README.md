@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BPranam%20%F0%9F%99%8F%3BKhamma%20Ghani%20%F0%9F%99%8F%3BVanakkam%20%F0%9F%99%8F%3BSat%20Sri%20Akaal%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
 <br>
-<img src="https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove">
+<img src="https://views.whatilearened.today/views/github/Kuldeep-Chhipa/Kuldeep-Chhipa.svg?cache=remove">
 <br>
 </div>
 <br>
 
 
 <div>
-<a ><img width=422 src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true&theme=react"></a>&#8198;
+<a ><img width=422 src="https://github-readme-stats.vercel.app/api?username=kuldeep-chhipa&show_icons=true&count_private=true&theme=react"></a>&#8198;
 <!-- <img  alt="GIF" src="https://github.com/abhir9/abhir9/blob/main/code.gif" width="311" height="200" /> -->
 <a ><img width=422 src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
 </div>
 
 <br>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent&theme=react-dark">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=kuldeep-chhipa&hide_border=true&area=true&point=transparent&theme=react-dark">
 <br>
 <div>
     
