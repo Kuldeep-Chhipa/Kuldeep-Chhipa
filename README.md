@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <a ><img width=422 src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
 </div>
 
-<br>
+<!-- <br>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=kuldeep-chhipa&hide_border=true&area=true&point=transparent&theme=react-dark">
-<br>
+<br> -->
 <div>
     
 <h2 id="skills">My Skills ✍️</h2>
