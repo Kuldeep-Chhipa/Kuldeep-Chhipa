@@ -1,8 +1,8 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+<!--
 <h1 align="center">Hi 👋, I'm Kuldeep Chhipa</h1>
 <h3 align="center">Results-oriented Associate Automation Architect with over 10+ years of experience</h3>
 
-<!--
 **Kuldeep-Chhipa/Kuldeep-Chhipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,7 +22,20 @@ Here are some ideas to get you started:
 <img src="https://views.whatilearened.today/views/github/Kuldeep-Chhipa/Kuldeep-Chhipa.svg?cache=remove">
 <br>
 </div>
-<br>
+<be>
+- 🔭 I’m currently working on **Loginradius**
+
+- 🌱 I’m currently learning **Automation Frameworks, DevOps, CICD**
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 📝 I regularly write articles on [https://artifactgeeks.com/](https://artifactgeeks.com/)
+
+- 💬 Ask me about **Selenium, Mocha, Nightwatch, Test Automation, API testing**
+
+- 📫 How to reach me **kuldeepchhipa999@gmail.com**
+
+- 📄 Know about my experiences [https://amaranth-julianne-14.tiiny.site](https://amaranth-julianne-14.tiiny.site)
 
 
 <div>
