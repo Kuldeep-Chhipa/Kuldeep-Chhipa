@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <img src="https://views.whatilearened.today/views/github/Kuldeep-Chhipa/Kuldeep-Chhipa.svg?cache=remove">
 <br>
 </div>
-<be>
+<br>
+    
 - 🔭 I’m currently working on **Loginradius**
 
 - 🌱 I’m currently learning **Automation Frameworks, DevOps, CICD**
