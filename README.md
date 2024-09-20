@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **kuldeepchhipa999@gmail.com**
 
-- 📄 Know about my experiences [https://amaranth-julianne-14.tiiny.site](https://amaranth-julianne-14.tiiny.site)
+- 📄 Know about my experiences
 
 
 <div>
